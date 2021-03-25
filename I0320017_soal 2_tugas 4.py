@@ -8,3 +8,5 @@ elif int(pecah[0]) <= int(pecah[1]):
     print(f"angka pertama dapat dikali dengan {int(pecah[1]) // int(pecah[0])} untuk mendekati angka kedua")
 else:
     print(" ")
+
+
