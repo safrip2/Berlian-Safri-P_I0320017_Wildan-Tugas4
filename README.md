@@ -11,7 +11,12 @@ Repository ini berisi:
 >* Exercise 4.8
 >* Exercise 4.9
 >* Exercise 4.10
->* Soal 1
->* Soal 2 
+>* Exercise 4.11
+>* Exercise 4.12
+>* Soal 2
+>* Soal 3
+>* Soal 4
+>* Soal 5
+>* Soal 6
 
-WEEK 3. List, Tuple, Dictionary
+Python Operator
